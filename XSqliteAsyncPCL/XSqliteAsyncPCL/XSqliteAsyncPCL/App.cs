@@ -15,7 +15,6 @@ namespace XSqliteAsyncPCL
                     VerticalOptions = LayoutOptions.Center,
                     Children = {
                         new Label {
-                            XAlign = TextAlignment.Center,
                             Text = "Welcome to Xamarin Forms!"
                         }
                     }
